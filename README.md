@@ -12,4 +12,4 @@ For almost every category from Total Ride, Driver Count, and Fares goes from Rur
 
 Focus on the majority of PyBer ride sharing in areas with greater population density. Rural areas will reuqire less cars present, but urban areas will have a higher demand and more money will be made there. The focus should trickle down from Urban being the more important to rural being least important.
 
-![](images/chart.png)
+![](images/charts.png)
